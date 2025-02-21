@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Cover](https://github.com/Maelle26/Maelle26/blob/main/img/photo_linkedin.JPG)
+![Cover](https://github.com/Maelle26/Maelle26/blob/main/img/bandeau_github_profile.gif)
 <!--
 **Maelle26/Maelle26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
